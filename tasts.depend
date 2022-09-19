@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663552572 source:e:\learning\abdelghafar\projects\tasts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
