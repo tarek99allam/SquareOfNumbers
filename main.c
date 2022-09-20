@@ -17,6 +17,8 @@ int main()
 
       for (row = 1 ; row < 2*n ;row++)
       {
+      printf("\t");
+
           for (column=1 ; column <2*n ; column++ )
           {
             if (row<=n)
